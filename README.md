@@ -6,4 +6,4 @@ Uses the transcript of Rick and Morty to train SVM model over dialogues of Rick.
 
 ### To Do
 
-I have to include a way to update data on the basis of user interaction to make the responses less deterministic. I will use dagster to retrain the model on a daily basis so yesterday's interactions will affect today's responses. More functionalitites, like playing music, and srver administration are to be added as well. (maybe a different bot)
+I have to include a way to update data on the basis of user interaction to make the responses less deterministic. I will use dagster to retrain the model on a daily basis so yesterday's interactions will affect today's responses. More functionalitites, like playing music, and srver administration are to be added as well. (maybe a different bot). Also, I need to document stuff because I'll barely remeber the code.
