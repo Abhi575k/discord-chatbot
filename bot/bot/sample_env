@@ -1,0 +1,3 @@
+TOKEN = 'token'
+MODEL_LATEST = '/root/bot/bot/models/model_latest.pkl'
+INPUT_DATA = '/root/bot/bot/data/input_data.csv'

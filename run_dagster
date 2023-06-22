@@ -1,0 +1,3 @@
+#!/bin/bash
+
+dagster asset materialize -f /root/bot/bot/assets.py --select import_data
